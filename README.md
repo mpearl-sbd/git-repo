@@ -1,4 +1,4 @@
-# 🛡️ Threat Blocklists for Network Security
+# 🛡️ SBD Threat Blocklists
 
 This repository contains curated blocklists designed to enhance network security by preventing access to known malicious IPs and domains.
 
